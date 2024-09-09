@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cwseitz.github.io/sitemap.xml
