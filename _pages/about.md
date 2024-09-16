@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, Purdue University
+subtitle: PhD, Purdue University
 
 profile:
   align: right
